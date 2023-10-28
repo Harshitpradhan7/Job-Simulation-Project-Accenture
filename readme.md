@@ -14,3 +14,18 @@ Here, we focused on these tasks:
 • An audit of Social Buzz’s big data practice
 • Recommendations for a successful IPO
 • Analysis for top 5 content categories.
+
+# Insights
+• Top 5 categories are in which maximum number of posts are there and there are the
+categories which are performing best.
+• Here we also find the percent share of each category.
+• In analysis we also got month wise and year wise number of posts and on basis of that we
+conclude that which month has maximum number of posts.
+
+# Summary:
+➢ Top 5 categories are:
+o Animals
+o Science
+o Healthy eating
+o Technology
+o Food
